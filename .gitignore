@@ -1,0 +1,6 @@
+
+# local configuration files
+*-local.conf
+
+# runit supervision
+supervise
