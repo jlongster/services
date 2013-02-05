@@ -2,4 +2,4 @@
 
 set -e 
 
-exec redis-server redis.conf
+exec redis-server conf/redis-local.conf
